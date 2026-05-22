@@ -1,0 +1,16 @@
+# Python 缓存
+__pycache__/
+*.pyc
+
+# API 密钥（重要！防止泄露）
+config_local.py
+
+# 数据文件（太大，不上传）
+data/raw/
+Traffic/
+
+# 实验结果（可选，跑完后可以选择上传）
+# experiments/results/
+
+# 系统文件
+.DS_Store
